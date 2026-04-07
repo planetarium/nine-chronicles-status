@@ -1,36 +1,79 @@
-# Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: planetarium
+repo: nine-chronicles-status
+user-agent: planetarium
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-  - name: IPv6 test
-    url: forwardemail.net
-    port: 80
-    check: "tcp-ping"
-    ipv6: true
+  # ── Odin Network ──
+  - name: Odin RPC 1
+    url: https://odin-rpc-1.nine-chronicles.com/graphql
+    expectedStatusCodes: [200, 400]
+    maxResponseTime: 10000
+
+  - name: Odin RPC 2
+    url: https://odin-rpc-2.nine-chronicles.com/graphql
+    expectedStatusCodes: [200, 400]
+    maxResponseTime: 10000
+
+  - name: Odin RPC 3
+    url: https://odin-rpc-3.nine-chronicles.com/graphql
+    expectedStatusCodes: [200, 400]
+    maxResponseTime: 10000
+
+  - name: Odin RPC (9capi 5)
+    url: https://odin5.9capi.com/graphql
+    expectedStatusCodes: [200, 400]
+    maxResponseTime: 10000
+
+  - name: Odin RPC (9capi 6)
+    url: https://odin6.9capi.com/graphql
+    expectedStatusCodes: [200, 400]
+    maxResponseTime: 10000
+
+  - name: Odin Validator 5
+    url: https://odin-validator-5.nine-chronicles.com/graphql
+    expectedStatusCodes: [200, 400]
+    maxResponseTime: 10000
+
+  # ── Heimdall Network ──
+  - name: Heimdall RPC 1
+    url: https://heimdall-rpc-1.nine-chronicles.com/graphql
+    expectedStatusCodes: [200, 400]
+    maxResponseTime: 10000
+
+  - name: Heimdall RPC 2
+    url: https://heimdall-rpc-2.nine-chronicles.com/graphql
+    expectedStatusCodes: [200, 400]
+    maxResponseTime: 10000
+
+  - name: Heimdall Validator 1
+    url: https://heimdall-validator-1.nine-chronicles.com/graphql
+    expectedStatusCodes: [200, 400]
+    maxResponseTime: 10000
+
+  # ── Supporting Services ──
+  - name: Planet Registry
+    url: https://planets.nine-chronicles.com/planets/
+    expectedStatusCodes: [200]
+    maxResponseTime: 5000
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  baseUrl: /nine-chronicles-status
+  name: Nine Chronicles Status
+  introTitle: "**Nine Chronicles** Network Status"
+  introMessage: >-
+    Real-time availability monitoring for Nine Chronicles blockchain nodes.
+    Deep block validation and alerting run separately via
+    [node-uptime](https://github.com/planetarium/node-uptime).
+  theme: dark
   navbar:
     - title: Status
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
+workflowSchedule:
+  uptime: "*/5 * * * *"
+  graphs: "0 0 * * *"
+  responseTime: "0 23 * * *"
+  staticSite: "0 1 * * *"
+  summary: "0 0 * * *"
