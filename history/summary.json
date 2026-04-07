@@ -76,18 +76,20 @@
     "url": "https://odin6.9capi.com/graphql",
     "icon": "https://icons.duckduckgo.com/ip3/odin6.9capi.com.ico",
     "slug": "odin-rpc-9capi-6",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 652,
-    "timeDay": 652,
-    "timeWeek": 652,
-    "timeMonth": 652,
-    "timeYear": 652,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 574,
+    "timeDay": 574,
+    "timeWeek": 574,
+    "timeMonth": 574,
+    "timeYear": 574,
+    "dailyMinutesDown": {
+      "2026-04-07": 0
+    }
   },
   {
     "name": "Odin Validator 5",
