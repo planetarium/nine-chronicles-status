@@ -1,7 +1,7 @@
 url: https://odin-validator-5.nine-chronicles.com/graphql
-status: down
-code: 502
-responseTime: 668
-lastUpdated: 2026-04-08T06:44:55.169Z
+status: up
+code: 400
+responseTime: 599
+lastUpdated: 2026-04-08T07:13:32.582Z
 startTime: 2026-04-07T05:38:59.308Z
 generator: Upptime <https://github.com/upptime/upptime>
