@@ -1,7 +1,7 @@
 url: https://odin5.9capi.com/graphql
-status: up
-code: 400
-responseTime: 654
-lastUpdated: 2026-04-11T21:15:56.903Z
+status: down
+code: 502
+responseTime: 695
+lastUpdated: 2026-04-11T22:13:15.560Z
 startTime: 2026-04-07T05:38:56.854Z
 generator: Upptime <https://github.com/upptime/upptime>
