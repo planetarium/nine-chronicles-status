@@ -45,6 +45,11 @@ sites:
     expectedStatusCodes: [200, 400]
     maxResponseTime: 10000
 
+  - name: Heimdall RPC (9capi 6)
+    url: https://heimdall6.9capi.com/graphql
+    expectedStatusCodes: [200, 400]
+    maxResponseTime: 10000
+    
   - name: Heimdall Validator 1
     url: https://heimdall-validator-1.nine-chronicles.com/graphql
     expectedStatusCodes: [200, 400]
