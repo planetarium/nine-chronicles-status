@@ -1,7 +1,7 @@
 url: https://heimdall6.9capi.com/graphql
-status: up
-code: 400
-responseTime: 466
-lastUpdated: 2026-04-27T23:20:06.474Z
+status: down
+code: 502
+responseTime: 488
+lastUpdated: 2026-04-28T06:20:02.607Z
 startTime: 2026-04-13T04:59:15.771Z
 generator: Upptime <https://github.com/upptime/upptime>
