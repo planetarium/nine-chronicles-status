@@ -9,16 +9,6 @@ sites:
     expectedStatusCodes: [200, 400]
     maxResponseTime: 10000
 
-  - name: Odin RPC 2
-    url: https://odin-rpc-2.nine-chronicles.com/graphql
-    expectedStatusCodes: [200, 400]
-    maxResponseTime: 10000
-
-  - name: Odin RPC 3
-    url: https://odin-rpc-3.nine-chronicles.com/graphql
-    expectedStatusCodes: [200, 400]
-    maxResponseTime: 10000
-
   - name: Odin RPC (9capi 5)
     url: https://odin5.9capi.com/graphql
     expectedStatusCodes: [200, 400]
