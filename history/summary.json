@@ -21,53 +21,6 @@
     }
   },
   {
-    "name": "Odin RPC 2",
-    "url": "https://odin-rpc-2.nine-chronicles.com/graphql",
-    "icon": "https://icons.duckduckgo.com/ip3/odin-rpc-2.nine-chronicles.com.ico",
-    "slug": "odin-rpc-2",
-    "status": "down",
-    "uptime": "98.37%",
-    "uptimeDay": "99.34%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "98.37%",
-    "time": 2158,
-    "timeDay": 417,
-    "timeWeek": 547,
-    "timeMonth": 610,
-    "timeYear": 2158,
-    "dailyMinutesDown": {
-      "2026-05-18": 9,
-      "2026-04-09": 127,
-      "2026-04-08": 829
-    }
-  },
-  {
-    "name": "Odin RPC 3",
-    "url": "https://odin-rpc-3.nine-chronicles.com/graphql",
-    "icon": "https://icons.duckduckgo.com/ip3/odin-rpc-3.nine-chronicles.com.ico",
-    "slug": "odin-rpc-3",
-    "status": "down",
-    "uptime": "88.85%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "40.45%",
-    "uptimeMonth": "86.30%",
-    "uptimeYear": "88.85%",
-    "time": 595,
-    "timeDay": 0,
-    "timeWeek": 561,
-    "timeMonth": 608,
-    "timeYear": 595,
-    "dailyMinutesDown": {
-      "2026-05-18": 439,
-      "2026-05-17": 1440,
-      "2026-05-16": 1440,
-      "2026-05-15": 1440,
-      "2026-05-14": 1243,
-      "2026-04-08": 592
-    }
-  },
-  {
     "name": "Odin RPC (9capi 5)",
     "url": "https://odin5.9capi.com/graphql",
     "icon": "https://icons.duckduckgo.com/ip3/odin5.9capi.com.ico",
