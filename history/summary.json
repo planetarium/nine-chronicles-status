@@ -143,20 +143,20 @@
     "url": "https://heimdall-rpc-2.nine-chronicles.com/graphql",
     "icon": "https://icons.duckduckgo.com/ip3/heimdall-rpc-2.nine-chronicles.com.ico",
     "slug": "heimdall-rpc-2",
-    "status": "down",
-    "uptime": "99.96%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.92%",
-    "uptimeYear": "99.96%",
+    "status": "up",
+    "uptime": "99.87%",
+    "uptimeDay": "95.29%",
+    "uptimeWeek": "99.33%",
+    "uptimeMonth": "99.77%",
+    "uptimeYear": "99.87%",
     "time": 578,
-    "timeDay": 500,
-    "timeWeek": 561,
+    "timeDay": 533,
+    "timeWeek": 565,
     "timeMonth": 567,
     "timeYear": 578,
     "dailyMinutesDown": {
       "2026-05-19": 34,
-      "2026-05-30": 0
+      "2026-05-30": 68
     }
   },
   {
