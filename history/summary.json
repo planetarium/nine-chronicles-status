@@ -27,11 +27,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/odin5.9capi.com.ico",
     "slug": "odin-rpc-9capi-5",
     "status": "down",
-    "uptime": "97.06%",
-    "uptimeDay": "78.53%",
-    "uptimeWeek": "96.25%",
-    "uptimeMonth": "98.25%",
-    "uptimeYear": "97.06%",
+    "uptime": "97.01%",
+    "uptimeDay": "75.38%",
+    "uptimeWeek": "95.80%",
+    "uptimeMonth": "98.15%",
+    "uptimeYear": "97.01%",
     "time": 685,
     "timeDay": 567,
     "timeWeek": 576,
@@ -56,7 +56,7 @@
       "2026-05-18": 64,
       "2026-05-21": 87,
       "2026-05-27": 69,
-      "2026-05-31": 310
+      "2026-05-31": 355
     }
   },
   {
@@ -144,21 +144,21 @@
     "url": "https://heimdall-rpc-2.nine-chronicles.com/graphql",
     "icon": "https://icons.duckduckgo.com/ip3/heimdall-rpc-2.nine-chronicles.com.ico",
     "slug": "heimdall-rpc-2",
-    "status": "degraded",
-    "uptime": "98.10%",
-    "uptimeDay": "1.66%",
-    "uptimeWeek": "85.51%",
-    "uptimeMonth": "96.59%",
-    "uptimeYear": "98.10%",
-    "time": 1270,
-    "timeDay": 7106,
-    "timeWeek": 3827,
-    "timeMonth": 1683,
-    "timeYear": 1270,
+    "status": "down",
+    "uptime": "98.05%",
+    "uptimeDay": "0.13%",
+    "uptimeWeek": "85.06%",
+    "uptimeMonth": "96.48%",
+    "uptimeYear": "98.05%",
+    "time": 1260,
+    "timeDay": 7104,
+    "timeWeek": 3610,
+    "timeMonth": 1657,
+    "timeYear": 1260,
     "dailyMinutesDown": {
       "2026-05-19": 34,
       "2026-05-30": 128,
-      "2026-05-31": 1333
+      "2026-05-31": 1378
     }
   },
   {
