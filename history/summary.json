@@ -27,11 +27,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/odin5.9capi.com.ico",
     "slug": "odin-rpc-9capi-5",
     "status": "down",
-    "uptime": "96.91%",
-    "uptimeDay": "69.82%",
-    "uptimeWeek": "95.01%",
-    "uptimeMonth": "97.96%",
-    "uptimeYear": "96.91%",
+    "uptime": "96.89%",
+    "uptimeDay": "68.91%",
+    "uptimeWeek": "94.88%",
+    "uptimeMonth": "97.93%",
+    "uptimeYear": "96.89%",
     "time": 684,
     "timeDay": 579,
     "timeWeek": 583,
@@ -57,7 +57,7 @@
       "2026-05-21": 87,
       "2026-05-27": 69,
       "2026-05-31": 417,
-      "2026-06-01": 18
+      "2026-06-01": 31
     }
   },
   {
@@ -146,11 +146,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/heimdall-rpc-2.nine-chronicles.com.ico",
     "slug": "heimdall-rpc-2",
     "status": "degraded",
-    "uptime": "97.95%",
+    "uptime": "97.93%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "84.27%",
-    "uptimeMonth": "96.30%",
-    "uptimeYear": "97.95%",
+    "uptimeWeek": "84.13%",
+    "uptimeMonth": "96.27%",
+    "uptimeYear": "97.93%",
     "time": 1710,
     "timeDay": 13454,
     "timeWeek": 5700,
@@ -159,7 +159,7 @@
     "dailyMinutesDown": {
       "2026-05-19": 34,
       "2026-05-30": 128,
-      "2026-06-01": 18,
+      "2026-06-01": 31,
       "2026-05-31": 1440
     }
   },
