@@ -1,7 +1,7 @@
 url: https://heimdall-rpc-2.nine-chronicles.com/graphql
-status: up
-code: 400
-responseTime: 427
-lastUpdated: 2026-06-07T23:24:25.332Z
+status: down
+code: 502
+responseTime: 506
+lastUpdated: 2026-06-08T22:01:31.802Z
 startTime: 2026-04-07T05:39:01.226Z
 generator: Upptime <https://github.com/upptime/upptime>
