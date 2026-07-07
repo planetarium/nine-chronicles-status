@@ -1,7 +1,7 @@
 url: https://heimdall6.9capi.com/graphql
-status: degraded
+status: up
 code: 400
-responseTime: 17290
-lastUpdated: 2026-07-07T04:57:54.936Z
+responseTime: 2706
+lastUpdated: 2026-07-07T06:21:17.088Z
 startTime: 2026-04-13T04:59:15.771Z
 generator: Upptime <https://github.com/upptime/upptime>
