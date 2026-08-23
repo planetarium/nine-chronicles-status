@@ -190,7 +190,7 @@
       "2026-05-31": 1440,
       "2026-06-06": 99,
       "2026-06-08": 37,
-      "2026-08-23": 1320,
+      "2026-08-23": 1351,
       "2026-08-22": 1440,
       "2026-08-21": 1440,
       "2026-08-20": 1440,
@@ -267,16 +267,16 @@
     "url": "https://heimdall6.9capi.com/graphql",
     "icon": "https://icons.duckduckgo.com/ip3/heimdall6.9capi.com.ico",
     "slug": "heimdall-rpc-9capi-6",
-    "status": "down",
-    "uptime": "99.45%",
-    "uptimeDay": "96.22%",
-    "uptimeWeek": "99.36%",
-    "uptimeMonth": "99.85%",
-    "uptimeYear": "99.45%",
+    "status": "up",
+    "uptime": "99.43%",
+    "uptimeDay": "94.11%",
+    "uptimeWeek": "99.06%",
+    "uptimeMonth": "99.78%",
+    "uptimeYear": "99.43%",
     "time": 672,
-    "timeDay": 562,
-    "timeWeek": 543,
-    "timeMonth": 539,
+    "timeDay": 565,
+    "timeWeek": 546,
+    "timeMonth": 541,
     "timeYear": 672,
     "dailyMinutesDown": {
       "2026-04-14": 41,
@@ -297,7 +297,7 @@
       "2026-07-12": 40,
       "2026-07-21": 61,
       "2026-08-22": 10,
-      "2026-08-23": 54
+      "2026-08-23": 85
     }
   },
   {
