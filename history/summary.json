@@ -85,16 +85,16 @@
     "url": "https://odin6.9capi.com/graphql",
     "icon": "https://icons.duckduckgo.com/ip3/odin6.9capi.com.ico",
     "slug": "odin-rpc-9capi-6",
-    "status": "down",
+    "status": "up",
     "uptime": "99.62%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.05%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "99.62%",
     "time": 552,
-    "timeDay": 491,
-    "timeWeek": 558,
-    "timeMonth": 554,
+    "timeDay": 551,
+    "timeWeek": 571,
+    "timeMonth": 557,
     "timeYear": 552,
     "dailyMinutesDown": {
       "2026-04-07": 17,
@@ -116,7 +116,7 @@
       "2026-05-21": 39,
       "2026-07-12": 44,
       "2026-07-21": 57,
-      "2026-08-25": 0
+      "2026-08-25": 14
     }
   },
   {
@@ -192,7 +192,7 @@
       "2026-05-31": 1440,
       "2026-06-06": 99,
       "2026-06-08": 37,
-      "2026-08-25": 589,
+      "2026-08-25": 603,
       "2026-08-24": 1440,
       "2026-08-23": 1440,
       "2026-08-22": 1440,
