@@ -4,17 +4,17 @@
     "url": "https://odin-rpc-1.nine-chronicles.com/graphql",
     "icon": "https://icons.duckduckgo.com/ip3/odin-rpc-1.nine-chronicles.com.ico",
     "slug": "odin-rpc-1",
-    "status": "down",
-    "uptime": "99.42%",
-    "uptimeDay": "88.13%",
-    "uptimeWeek": "98.30%",
-    "uptimeMonth": "99.57%",
-    "uptimeYear": "99.42%",
-    "time": 1430,
-    "timeDay": 15481,
-    "timeWeek": 9886,
-    "timeMonth": 4034,
-    "timeYear": 1430,
+    "status": "degraded",
+    "uptime": "99.41%",
+    "uptimeDay": "85.87%",
+    "uptimeWeek": "97.98%",
+    "uptimeMonth": "99.50%",
+    "uptimeYear": "99.41%",
+    "time": 1586,
+    "timeDay": 16980,
+    "timeWeek": 11185,
+    "timeMonth": 4762,
+    "timeYear": 1586,
     "dailyMinutesDown": {
       "2026-04-09": 48,
       "2026-04-08": 1035,
@@ -24,7 +24,7 @@
       "2026-07-08": 25,
       "2026-07-13": 24,
       "2026-08-30": 16,
-      "2026-09-25": 171
+      "2026-09-25": 204
     }
   },
   {
@@ -36,7 +36,7 @@
     "uptime": "97.82%",
     "uptimeDay": "97.53%",
     "uptimeWeek": "99.51%",
-    "uptimeMonth": "98.72%",
+    "uptimeMonth": "98.79%",
     "uptimeYear": "97.82%",
     "time": 898,
     "timeDay": 560,
@@ -105,7 +105,7 @@
     "time": 547,
     "timeDay": 463,
     "timeWeek": 543,
-    "timeMonth": 521,
+    "timeMonth": 522,
     "timeYear": 547,
     "dailyMinutesDown": {
       "2026-04-07": 17,
@@ -145,7 +145,7 @@
     "time": 581,
     "timeDay": 560,
     "timeWeek": 558,
-    "timeMonth": 556,
+    "timeMonth": 555,
     "timeYear": 581,
     "dailyMinutesDown": {
       "2026-04-08": 114,
@@ -172,7 +172,7 @@
     "time": 1000,
     "timeDay": 560,
     "timeWeek": 535,
-    "timeMonth": 833,
+    "timeMonth": 840,
     "timeYear": 1000,
     "dailyMinutesDown": {
       "2026-05-19": 34,
@@ -198,7 +198,7 @@
     "time": 1378,
     "timeDay": 575,
     "timeWeek": 518,
-    "timeMonth": 528,
+    "timeMonth": 527,
     "timeYear": 1378,
     "dailyMinutesDown": {
       "2026-05-19": 34,
@@ -208,7 +208,7 @@
       "2026-05-31": 1440,
       "2026-06-06": 99,
       "2026-06-08": 37,
-      "2026-09-25": 1390,
+      "2026-09-25": 1422,
       "2026-09-24": 1440,
       "2026-09-23": 1440,
       "2026-09-22": 1440,
@@ -327,7 +327,7 @@
     "time": 644,
     "timeDay": 405,
     "timeWeek": 456,
-    "timeMonth": 516,
+    "timeMonth": 515,
     "timeYear": 644,
     "dailyMinutesDown": {
       "2026-04-14": 41,
@@ -400,7 +400,7 @@
     "time": 149,
     "timeDay": 227,
     "timeWeek": 148,
-    "timeMonth": 145,
+    "timeMonth": 141,
     "timeYear": 149,
     "dailyMinutesDown": {}
   }
