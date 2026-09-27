@@ -1,7 +1,7 @@
 url: https://odin-rpc-1.nine-chronicles.com/graphql
-status: degraded
+status: down
 code: 502
-responseTime: 32117
-lastUpdated: 2026-09-27T03:59:03.405Z
+responseTime: 1547
+lastUpdated: 2026-09-27T04:27:32.984Z
 startTime: 2026-04-07T05:38:53.944Z
 generator: Upptime <https://github.com/upptime/upptime>
