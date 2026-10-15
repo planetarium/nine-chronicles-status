@@ -4,17 +4,17 @@
     "url": "https://odin-rpc-1.nine-chronicles.com/graphql",
     "icon": "https://icons.duckduckgo.com/ip3/odin-rpc-1.nine-chronicles.com.ico",
     "slug": "odin-rpc-1",
-    "status": "up",
+    "status": "degraded",
     "uptime": "98.13%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "91.07%",
     "uptimeYear": "98.13%",
-    "time": 6352,
-    "timeDay": 421,
-    "timeWeek": 486,
-    "timeMonth": 11837,
-    "timeYear": 6352,
+    "time": 6379,
+    "timeDay": 8136,
+    "timeWeek": 2406,
+    "timeMonth": 11859,
+    "timeYear": 6379,
     "dailyMinutesDown": {
       "2026-04-09": 48,
       "2026-04-08": 1035,
@@ -28,7 +28,8 @@
       "2026-09-28": 762,
       "2026-09-27": 1440,
       "2026-09-26": 1440,
-      "2026-09-29": 46
+      "2026-09-29": 46,
+      "2026-10-15": 1
     }
   },
   {
@@ -36,17 +37,17 @@
     "url": "https://odin5.9capi.com/graphql",
     "icon": "https://icons.duckduckgo.com/ip3/odin5.9capi.com.ico",
     "slug": "odin-rpc-9capi-5",
-    "status": "down",
+    "status": "up",
     "uptime": "97.38%",
-    "uptimeDay": "98.92%",
-    "uptimeWeek": "86.06%",
-    "uptimeMonth": "95.70%",
+    "uptimeDay": "98.51%",
+    "uptimeWeek": "86.00%",
+    "uptimeMonth": "95.69%",
     "uptimeYear": "97.38%",
-    "time": 1041,
-    "timeDay": 15388,
-    "timeWeek": 5128,
-    "timeMonth": 1616,
-    "timeYear": 1041,
+    "time": 1039,
+    "timeDay": 12404,
+    "timeWeek": 4795,
+    "timeMonth": 1596,
+    "timeYear": 1039,
     "dailyMinutesDown": {
       "2026-04-08": 85,
       "2026-04-09": 261,
@@ -100,7 +101,7 @@
       "2026-10-08": 143,
       "2026-10-10": 310,
       "2026-10-13": 1080,
-      "2026-10-15": 15
+      "2026-10-15": 21
     }
   },
   {
@@ -148,16 +149,16 @@
     "url": "https://odin-validator-5.nine-chronicles.com/graphql",
     "icon": "https://icons.duckduckgo.com/ip3/odin-validator-5.nine-chronicles.com.ico",
     "slug": "odin-validator-5",
-    "status": "up",
+    "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.87%",
     "time": 574,
-    "timeDay": 422,
-    "timeWeek": 492,
-    "timeMonth": 533,
+    "timeDay": 490,
+    "timeWeek": 500,
+    "timeMonth": 534,
     "timeYear": 574,
     "dailyMinutesDown": {
       "2026-04-08": 114,
@@ -167,7 +168,8 @@
       "2026-04-18": 30,
       "2026-09-03": 23,
       "2026-09-14": 19,
-      "2026-09-25": 45
+      "2026-09-25": 45,
+      "2026-10-15": 0
     }
   },
   {
@@ -220,7 +222,7 @@
       "2026-05-31": 1440,
       "2026-06-06": 99,
       "2026-06-08": 37,
-      "2026-10-15": 1431,
+      "2026-10-15": 1437,
       "2026-10-14": 1440,
       "2026-10-13": 1440,
       "2026-10-12": 1440,
