@@ -155,16 +155,16 @@
     "url": "https://odin-validator-5.nine-chronicles.com/graphql",
     "icon": "https://icons.duckduckgo.com/ip3/odin-validator-5.nine-chronicles.com.ico",
     "slug": "odin-validator-5",
-    "status": "down",
+    "status": "up",
     "uptime": "99.80%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "99.18%",
-    "uptimeMonth": "99.48%",
+    "uptimeDay": "99.63%",
+    "uptimeWeek": "99.13%",
+    "uptimeMonth": "99.47%",
     "uptimeYear": "99.80%",
     "time": 571,
-    "timeDay": 571,
-    "timeWeek": 524,
-    "timeMonth": 526,
+    "timeDay": 582,
+    "timeWeek": 530,
+    "timeMonth": 528,
     "timeYear": 571,
     "dailyMinutesDown": {
       "2026-04-08": 114,
@@ -178,7 +178,7 @@
       "2026-10-16": 142,
       "2026-10-15": 3,
       "2026-10-29": 82,
-      "2026-10-30": 0
+      "2026-10-30": 5
     }
   },
   {
@@ -233,7 +233,7 @@
       "2026-05-31": 1440,
       "2026-06-06": 99,
       "2026-06-08": 37,
-      "2026-10-30": 715,
+      "2026-10-30": 721,
       "2026-10-29": 1440,
       "2026-10-28": 1440,
       "2026-10-27": 1440,
