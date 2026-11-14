@@ -1,7 +1,7 @@
 url: https://heimdall-validator-1.nine-chronicles.com/graphql
-status: up
-code: 400
-responseTime: 451
-lastUpdated: 2026-11-13T23:05:21.322Z
+status: down
+code: 502
+responseTime: 528
+lastUpdated: 2026-11-14T14:20:12.502Z
 startTime: 2026-04-07T05:39:02.245Z
 generator: Upptime <https://github.com/upptime/upptime>
