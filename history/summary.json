@@ -42,9 +42,9 @@
     "slug": "odin-rpc-9capi-5",
     "status": "down",
     "uptime": "95.24%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "80.98%",
+    "uptimeDay": "99.55%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "80.97%",
     "uptimeYear": "95.24%",
     "time": 1520,
     "timeDay": 538,
@@ -117,7 +117,7 @@
       "2026-11-01": 601,
       "2026-11-06": 966,
       "2026-11-05": 1440,
-      "2026-11-20": 0
+      "2026-11-20": 6
     }
   },
   {
@@ -167,17 +167,17 @@
     "url": "https://odin-validator-5.nine-chronicles.com/graphql",
     "icon": "https://icons.duckduckgo.com/ip3/odin-validator-5.nine-chronicles.com.ico",
     "slug": "odin-validator-5",
-    "status": "up",
+    "status": "down",
     "uptime": "99.80%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.27%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "99.26%",
     "uptimeMonth": "99.64%",
     "uptimeYear": "99.80%",
-    "time": 680,
-    "timeDay": 595,
-    "timeWeek": 2636,
-    "timeMonth": 1202,
-    "timeYear": 680,
+    "time": 679,
+    "timeDay": 545,
+    "timeWeek": 2496,
+    "timeMonth": 1185,
+    "timeYear": 679,
     "dailyMinutesDown": {
       "2026-04-08": 114,
       "2026-04-10": 22,
@@ -190,7 +190,8 @@
       "2026-10-16": 142,
       "2026-10-15": 3,
       "2026-10-29": 82,
-      "2026-11-15": 74
+      "2026-11-15": 74,
+      "2026-11-20": 0
     }
   },
   {
@@ -247,7 +248,7 @@
       "2026-05-31": 1440,
       "2026-06-06": 99,
       "2026-06-08": 37,
-      "2026-11-20": 660,
+      "2026-11-20": 667,
       "2026-11-19": 1440,
       "2026-11-18": 1440,
       "2026-11-17": 1440,
