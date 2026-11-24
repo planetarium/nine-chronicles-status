@@ -126,16 +126,16 @@
     "url": "https://odin6.9capi.com/graphql",
     "icon": "https://icons.duckduckgo.com/ip3/odin6.9capi.com.ico",
     "slug": "odin-rpc-9capi-6",
-    "status": "down",
+    "status": "up",
     "uptime": "99.62%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.93%",
+    "uptimeDay": "99.61%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "98.92%",
     "uptimeYear": "99.62%",
     "time": 544,
-    "timeDay": 601,
-    "timeWeek": 578,
-    "timeMonth": 537,
+    "timeDay": 567,
+    "timeWeek": 570,
+    "timeMonth": 536,
     "timeYear": 544,
     "dailyMinutesDown": {
       "2026-04-07": 17,
@@ -161,7 +161,7 @@
       "2026-09-24": 14,
       "2026-10-30": 88,
       "2026-11-12": 380,
-      "2026-11-24": 0
+      "2026-11-24": 6
     }
   },
   {
@@ -249,7 +249,7 @@
       "2026-05-31": 1440,
       "2026-06-06": 99,
       "2026-06-08": 37,
-      "2026-11-24": 575,
+      "2026-11-24": 581,
       "2026-11-23": 1440,
       "2026-11-22": 1440,
       "2026-11-21": 1440,
@@ -421,9 +421,9 @@
     "slug": "heimdall-rpc-9capi-6",
     "status": "up",
     "uptime": "99.62%",
-    "uptimeDay": "99.52%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.81%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.82%",
     "uptimeYear": "99.62%",
     "time": 619,
     "timeDay": 528,
@@ -455,8 +455,7 @@
       "2026-09-22": 10,
       "2026-09-29": 17,
       "2026-10-07": 15,
-      "2026-10-30": 78,
-      "2026-11-24": 7
+      "2026-10-30": 78
     }
   },
   {
